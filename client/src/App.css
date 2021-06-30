@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App table {
+  border: 1px solid lightgray;
+}
